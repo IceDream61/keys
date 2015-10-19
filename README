@@ -1,0 +1,23 @@
+Introduction for v1.0
+
+	This code can help you to manage your keys.
+
+	It can work on Mac and Linux.
+
+------------------------------
+
+How to use it
+
+	Type "make" in terminal.
+
+	Then you can use "cat readme" to know how to use it.
+
+	You can use "make clean" to delete your keys and any other things.
+
+------------------------------
+
+Some details
+
+	My cryption algorithm is very simple now.
+
+	It will develop at v2.0.
